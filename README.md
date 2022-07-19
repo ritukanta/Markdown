@@ -1,3 +1,5 @@
+![Markdown Logo](https://markdown-here.com/img/logo-2015/austin.png)
+
 ### What is Markdown?
 
 * This is a lightweight markup language with a plain text formatting syntax
